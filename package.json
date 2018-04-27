@@ -1,0 +1,22 @@
+{
+  "name": "@neos21/neos-npm-blog",
+  "version": "1.0.20180428",
+  "description": "Neo's npm Blog",
+  "bin": {
+    "neos-npm-blog": "./bin.js"
+  },
+  "dependencies": {
+    "compare-versions": "3.1.0",
+    "package-json": "4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/neos-npm-blog.git"
+  },
+  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neos21/neos-npm-blog/issues"
+  },
+  "homepage": "https://github.com/Neos21/neos-npm-blog#readme"
+}
