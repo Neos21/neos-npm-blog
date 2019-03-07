@@ -1,6 +1,6 @@
 {
   "name": "@neos21/neos-npm-blog",
-  "version": "1.0.20180428",
+  "version": "1.0.20190307",
   "description": "Neo's npm Blog",
   "bin": {
     "neos-npm-blog": "./bin.js"
