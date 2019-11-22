@@ -1,5 +1,7 @@
 # Neo's npm Blog : @neos21/neos-npm-blog
 
+[![NPM Version](https://img.shields.io/npm/v/@neos21/neos-npm-blog.svg)](https://www.npmjs.com/package/@neos21/neos-npm-blog)
+
 npm パッケージとして配信するブログの試みです。
 
 
