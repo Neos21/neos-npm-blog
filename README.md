@@ -44,7 +44,7 @@ $ neos-npm-blog help
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - neos-npm-blog](https://github.com/Neos21/neos-npm-blog)
 - [npm - @neos21/neos-npm-blog](https://www.npmjs.com/package/@neos21/neos-npm-blog)
