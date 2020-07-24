@@ -1,6 +1,6 @@
 # Neo's npm Blog : @neos21/neos-npm-blog
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/neos-npm-blog.svg)](https://www.npmjs.com/package/@neos21/neos-npm-blog)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/neos-npm-blog.svg)](https://www.npmjs.com/package/@neos21/neos-npm-blog) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/neos-npm-blog?label=github)](https://github.com/Neos21/neos-npm-blog/packages/327383)
 
 npm パッケージとして配信するブログの試みです。
 
