@@ -1,4 +1,4 @@
-# Neo's npm Blog : @neos21/neos-npm-blog
+# @neos21/neos-npm-blog : Neo's npm Blog
 
 [![NPM Version](https://img.shields.io/npm/v/@neos21/neos-npm-blog.svg)](https://www.npmjs.com/package/@neos21/neos-npm-blog) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/neos-npm-blog?label=github)](https://github.com/Neos21/neos-npm-blog/packages/327383)
 
@@ -42,19 +42,9 @@ $ neos-npm-blog help
 ```
 
 
-## Author
-
-[Neo](http://neo.s21.xrea.com/)
-
-- [GitHub - neos-npm-blog](https://github.com/Neos21/neos-npm-blog)
-- [npm - @neos21/neos-npm-blog](https://www.npmjs.com/package/@neos21/neos-npm-blog)
-
-
 ## Links
 
-- [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](https://neos21.hatenablog.com/)
-- [Murga](https://neos21.hatenablog.jp/)
-- [El Mylar](https://neos21.hateblo.jp/)
-- [Neo's GitHub Pages](https://neos21.github.io/)
+- [Neo's World](https://neos21.net/)
 - [GitHub - Neos21](https://github.com/Neos21/)
+- [GitHub - neos-npm-blog](https://github.com/Neos21/neos-npm-blog)
+- [npm - @neos21/neos-npm-blog](https://www.npmjs.com/package/@neos21/neos-npm-blog)
